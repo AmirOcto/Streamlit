@@ -4,11 +4,8 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 
-import plotly
-import chart_studio.plotly as py
 import plotly.graph_objects as go
 import plotly.figure_factory as ff
-from plotly.offline import init_notebook_mode, iplot
 from plotly.graph_objs import *
 import plotly.express as px
 
