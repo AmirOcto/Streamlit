@@ -4,9 +4,9 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 
+import plotly
 import plotly.graph_objects as go
 import plotly.figure_factory as ff
-from plotly.graph_objs import *
 import plotly.express as px
 
 from pathlib import Path
